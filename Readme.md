@@ -5,10 +5,8 @@ A full-stack task management application built with Next.js and Express.js, feat
 ## 📸 Screenshots
 
 ![Dashboard](frontend/public/images/sc1.png)
-*Dashboard Overview*
+*Login*
 
-![Tasks Page](frontend/public/images/sc2.png)
-*Task Management Interface*
 
 ![Task Creation](frontend/public/images/sc3.png)
 *Create Task Modal*
